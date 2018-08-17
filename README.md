@@ -1,4 +1,4 @@
-# XOR-Neural-Network
+# XOR Neural Network
 Fourth project for the subject Artificial Inteligence, which consisted in developing a neural network to analize a binary number and output a result telling if the number had en even or odd number of ones (XOR).
 Our implementation was in C++.
 
